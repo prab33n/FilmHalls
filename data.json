@@ -41,6 +41,13 @@
       "contact": "9806123740",
       "address": "Bhirkuti Path, Bardghat",
       "description": "Details of Mohini Cinema Hall"
+    },
+    {
+      "name of Hall": "Uttarshila Cinema",
+      "rating": "5.0",
+      "contact": "065-560093",
+      "address": "Byas",
+      "description": "Details of Uttarshila Cinema"
     }
   ]
 }
