@@ -22,6 +22,13 @@
       "description": "Details of Dwarika Udaya Cinema"
     },
     {
+      "name of Hall": "Himaz Cinema",
+      "rating": "3.8",
+      "contact": "061-444444",
+      "address": "Pokhara",
+      "description": "Details of Himaz Cinema"
+    },
+    {
       "name of Hall": "Mohini Cinema Hall",
       "rating": "3.2",
       "contact": "9806123740",
