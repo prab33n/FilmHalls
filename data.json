@@ -1,18 +1,25 @@
 {
-    "items": [
-{
-"name of Hall": "Dwarika Udaya Cinema",
-"rating": "3.8",
-"contact": "071-540613",
-"address": "Rajmargchowk, Butwal",
-"description": "Details of Dwarika Udaya Cinema"
-},
-{
-    "name of Hall": "Mohini Cinema Hall",
-    "rating": "3.2",
-    "contact": "9806123740",
-    "address": "Bhirkuti Path, Bardghat",
-    "description": "Details of Mohini Cinema Hall"
+  "items": [
+    {
+      "name of Hall": "Saugat Hall Syangja",
+      "rating": "NA",
+      "contact": "NA",
+      "address": "siddhartha Rajmarg Putalibazar Syangja",
+      "description": "Details of Saugat Hall Syangja"
+    },
+    {
+      "name of Hall": "Dwarika Udaya Cinema",
+      "rating": "3.8",
+      "contact": "071-540613",
+      "address": "Rajmargchowk, Butwal",
+      "description": "Details of Dwarika Udaya Cinema"
+    },
+    {
+      "name of Hall": "Mohini Cinema Hall",
+      "rating": "3.2",
+      "contact": "9806123740",
+      "address": "Bhirkuti Path, Bardghat",
+      "description": "Details of Mohini Cinema Hall"
     }
-]
+  ]
 }
