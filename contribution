@@ -4,10 +4,10 @@ The file will be in .json and the format of the data will be as follows (Extra f
 {
     "items": [
 {
-"name of Hall": " Transport Management Office",
-"rating": "number of ratings of",
-"contact": "Contact of Address you added",
-"address": "Address of Transport Management Office you added",
+"name of Hall": "Name of the film hall that you added",
+"rating": "number of rating",
+"contact": "Contact of hall you added",
+"address": "Address of Hall",
 "description": "Description about what you added"
 }
 ]
