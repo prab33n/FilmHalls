@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "name of Hall": "Barahai Cinema Hall",
+      "rating": "1.7",
+      "contact": "NA",
+      "address": "Gairapatan - Tersapatti Rd, Pokhara",
+      "description": "Details of Barahai Cinema Hall"
+    },
+    {
       "name of Hall": "Santosh Chalchitra Mandir",
       "rating": "3.0",
       "contact": "075-520261",
