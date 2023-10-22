@@ -64,6 +64,13 @@
       "description": "Details of Himaz Cinema"
     },
     {
+      "name of Hall": "Indradev Cinema",
+      "rating": "3.7",
+      "contact": "982-9490700",
+      "address": "Indradev Margh, Bharatpur",
+      "description": "Details of Indradev Cinema"
+    },
+    {
       "name of Hall": "Mandip Milan Chalchitra Mandir",
       "rating": "3.6",
       "contact": "NA",
