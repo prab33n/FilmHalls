@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "name of Hall": "Asta Narayan Pictures Cinema Hall",
+      "rating": "3.7",
+      "contact": "01-4350324",
+      "address": "Bypass 16, Kathmandu",
+      "description": "Details of Barahai Cinema Hall"
+    },
+    {
       "name of Hall": "Barahai Cinema Hall",
       "rating": "1.7",
       "contact": "NA",
