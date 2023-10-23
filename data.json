@@ -8,11 +8,25 @@
       "description": "Details of Bamel Cinemas"
     },
     {
+      "name of Hall": "Asta Narayan Pictures Cinema Hall",
+      "rating": "3.7",
+      "contact": "01-4350324",
+      "address": "Bypass 16, Kathmandu",
+      "description": "Details of Barahai Cinema Hall"
+    },
+    {
       "name of Hall": "Barahai Cinema Hall",
       "rating": "1.7",
       "contact": "NA",
       "address": "Gairapatan - Tersapatti Rd, Pokhara",
       "description": "Details of Barahai Cinema Hall"
+    },
+    {
+      "name of Hall": "Cine Plaza Entertainment",
+      "rating": "3.7",
+      "contact": "061-520656",
+      "address": "Tersapati Pokhara",
+      "description": "Details of Cine Plaza Entertainment"
     },
     {
       "name of Hall": "Santosh Chalchitra Mandir",
@@ -27,6 +41,13 @@
       "contact": "9823440083",
       "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
       "description": "Details of Bindhyabasini Film Hall"
+    },
+    {
+      "name of Hall": "Kalika Entertainment Pvt Ltd",
+      "rating": "4.3",
+      "contact": "068-524300",
+      "address": "Cinema Road, Baglung",
+      "description": "Details of Kalika Entertainment Pvt Ltd"
     },
     {
       "name of Hall": "Saugat Hall Syangja",
@@ -64,11 +85,53 @@
       "description": "Details of Indradev Cinema"
     },
     {
+      "name of Hall": "Mandip Milan Chalchitra Mandir",
+      "rating": "3.6",
+      "contact": "NA",
+      "address": "Lekhnath",
+      "description": "Details of Mandip Milan Chalchitra Mandir"
+    },
+    {
+    "name of Hall": "Kashi Cineplex PVT.LTD",
+    "rating": "3.7",
+    "contact": "071-570927",
+    "address": "Siddhartha Hwy, Siddharthanagar",
+    "description": "Details of Kashi Cineplex PVT.LTD"
+    },
+    {
+      "name of Hall": "Milan Chalchitra Mandir",
+      "rating": "3.4",
+      "contact": "071-540318",
+      "address": "MFQ7+775, Butwal 32907",
+      "description": "Details of Milan Chalchitra Mandir"
+    },
+    {
+      "name of Hall": "iNi Cinemas - QBox, Butwal",
+      "rating": "4.0",
+      "contact": "980-2317400",
+      "address": "Milan Chowk - 9, Butwal",
+      "description": "Details of iNi Cinemas"
+    },
+    {
       "name of Hall": "Mohini Cinema Hall",
       "rating": "3.2",
       "contact": "9806123740",
       "address": "Bhirkuti Path, Bardghat",
       "description": "Details of Mohini Cinema Hall"
+    },
+    {
+      "name of Hall": "Machhapuchhre Cinema Hall",
+      "rating": "2.8",
+      "contact": "NA",
+      "address": "Rajahar",
+      "description": "Details of Machhapuchhre Cinema Hall"
+    },
+    {
+      "name of Hall": "Shree Krishna Cinema Hall",
+      "rating": "2.6",
+      "contact": "NA",
+      "address": "Prithvi Hwy, Aanbu Khaireni",
+      "description": "Details of Shree Krishna Cinema Hall"
     },
     {
       "name of Hall": "Oasis Cinemas",
@@ -78,11 +141,53 @@
       "description": "Details of Oasis CInemas"
     },
     {
+    "name of Hall": "Pokhara Cineplex",
+    "rating": "4.1",
+    "contact": "061-572630",
+    "address": "Pokhara",
+    "description": "Details of Pokhara Cineplex"
+    },
+    {
+      "name of Hall": "Siddheshwor Chalchitra Mandir",
+      "rating": "3.5",
+      "contact": "067-420270",
+      "address": "Siddheswor Lane, Kushma",
+      "description": "Details of Siddheshwor Chalchitra Mandir"
+    },
+    {
+      "name of Hall": "QFX Cinemas Butwal",
+      "rating": "4.0",
+      "contact": "071-531506",
+      "address": "Butwal",
+      "description": "Details of QFX Cinemas Butwal"
+    },
+    {
+      "name of Hall": "Q'S Cinemas",
+      "rating": "3.8",
+      "contact": "01-4169201",
+      "address": "Teendhara Marg, Kathmandu",
+      "description": "Details of Q'S Cinaemas Kathmandu"
+    },
+    {
       "name of Hall": "Uttarshila Cinema",
       "rating": "5.0",
       "contact": "065-560093",
       "address": "Byas",
       "description": "Details of Uttarshila Cinema"
+    },
+    {
+      "name of Hall": "View Cinemas",
+      "rating": "3.8",
+      "contact": "071-544015",
+      "address": "Singh Complex, Amarpath 6, Butwal",
+      "description": "Details of View Cinemas"
+    },
+    {
+      "name of Hall": "Padmashree Theatre",
+      "rating": "4.3",
+      "contact": "N/A",
+      "address": " Siddhartha Hwy, Siddharthanagar,Nepal",
+      "description": "Details of Padmashree Theatre"
     }
   ]
 }
