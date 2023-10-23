@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "name of Hall": "Bamel Cinemas",
+      "rating": "3.7",
+      "contact": "011-660136",
+      "address": "GUgratara Janaga",
+      "description": "Details of Bamel Cinemas"
+    },
+    {
       "name of Hall": "Barahai Cinema Hall",
       "rating": "1.7",
       "contact": "NA",
