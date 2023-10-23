@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "name of Hall": "Bamel Cinemas",
+      "rating": "3.7",
+      "contact": "011-660136",
+      "address": "GUgratara Janaga",
+      "description": "Details of Bamel Cinemas"
+    },
+    {
       "name of Hall": "Asta Narayan Pictures Cinema Hall",
       "rating": "3.7",
       "contact": "01-4350324",
@@ -90,7 +97,7 @@
     "contact": "071-570927",
     "address": "Siddhartha Hwy, Siddharthanagar",
     "description": "Details of Kashi Cineplex PVT.LTD"
-  },
+    },
     {
       "name of Hall": "Milan Chalchitra Mandir",
       "rating": "3.4",
@@ -139,7 +146,7 @@
     "contact": "061-572630",
     "address": "Pokhara",
     "description": "Details of Pokhara Cineplex"
-  },
+    },
     {
       "name of Hall": "Siddheshwor Chalchitra Mandir",
       "rating": "3.5",
