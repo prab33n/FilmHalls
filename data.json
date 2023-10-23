@@ -43,6 +43,13 @@
       "description": "Details of Cine Plaza Entertainment"
     },
     {
+      "name of Hall": "City Max Cinemas",
+      "rating": "3.8",
+      "contact": "01-4239085",
+      "address": "City Square, Bag Bazar Sadak, Kathmandu",
+      "description": "Details of City Max cinemas"
+    },
+    {
       "name of Hall": "FCube Cinemas",
       "rating": "4.0",
       "contact": "01-4568700",
@@ -120,11 +127,11 @@
       "description": "Details of Mandip Milan Chalchitra Mandir"
     },
     {
-    "name of Hall": "Kashi Cineplex PVT.LTD",
-    "rating": "3.7",
-    "contact": "071-570927",
-    "address": "Siddhartha Hwy, Siddharthanagar",
-    "description": "Details of Kashi Cineplex PVT.LTD"
+      "name of Hall": "Kashi Cineplex PVT.LTD",
+      "rating": "3.7",
+      "contact": "071-570927",
+      "address": "Siddhartha Hwy, Siddharthanagar",
+      "description": "Details of Kashi Cineplex PVT.LTD"
     },
     {
       "name of Hall": "Milan Chalchitra Mandir",
@@ -183,11 +190,11 @@
       "description": "Details of QFX Cinemas Jalma"
     },
     {
-    "name of Hall": "Pokhara Cineplex",
-    "rating": "4.1",
-    "contact": "061-572630",
-    "address": "Pokhara",
-    "description": "Details of Pokhara Cineplex"
+      "name of Hall": "Pokhara Cineplex",
+      "rating": "4.1",
+      "contact": "061-572630",
+      "address": "Pokhara",
+      "description": "Details of Pokhara Cineplex"
     },
     {
       "name of Hall": "Siddheshwor Chalchitra Mandir",
