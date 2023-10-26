@@ -193,8 +193,15 @@
       "name of Hall": "iNi Cinemas - Lotse",
       "rating": "4.1",
       "contact": "980-2317400",
-      "address": "MGongabu Bus Park, Kathmandu",
+      "address": "Gongabu Bus Park, Kathmandu",
       "description": "Details of iNi Cinemas - Lotse"
+    },
+    {
+      "name of Hall": "iNi North Cinemas",
+      "rating": "4.1",
+      "contact": "980-2317400",
+      "address": "गोंगबुँ चक्रपथ ट्राक उत्तर, Tokha",
+      "description": "Details of iNi North Cinemas"
     },
     {
       "name of Hall": "Mohini Cinema Hall",
