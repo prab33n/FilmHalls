@@ -1,10 +1,17 @@
 {
   "items": [
     {
+      "name of Hall": "A-MAX Cinema",
+      "rating": "3.4",
+      "contact": "985-5021271",
+      "address": "Birgunj",
+      "description": "Details of A-MAX Cinema"
+    },
+    {
       "name of Hall": "Bamel Cinemas",
       "rating": "3.7",
       "contact": "011-660136",
-      "address": "GUgratara Janaga",
+      "address": "Ugratara Janaga",
       "description": "Details of Bamel Cinemas"
     },
     {
