@@ -127,6 +127,13 @@
       "description": "Details of Gopikrishna Movies"
     },
     {
+      "name of Hall": "Guna Cinema Hall",
+      "rating": "3.4",
+      "contact": "N/A",
+      "address": "Ring Rd, Lalitpur",
+      "description": "Details of Guna Cinema Halls"
+    },
+    {
       "name of Hall": "Himaz Cinema",
       "rating": "3.8",
       "contact": "061-444444",
