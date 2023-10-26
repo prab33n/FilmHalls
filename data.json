@@ -12,7 +12,7 @@
       "rating": "3.7",
       "contact": "01-4350324",
       "address": "Bypass 16, Kathmandu",
-      "description": "Details of Barahai Cinema Hall"
+      "description": "Details of Asta Narayan Pictures Cinema Hall"
     },
     {
       "name of Hall": "Barahai Cinema Hall",
@@ -76,6 +76,13 @@
       "contact": "068-524300",
       "address": "Cinema Road, Baglung",
       "description": "Details of Kalika Entertainment Pvt Ltd"
+    },
+    {
+      "name of Hall": "Kalpana Cinema Hall (P) Ltd.",
+      "rating": "3.4",
+      "contact": "061-520157",
+      "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
+      "description": "Details of Kalpana Cinema Hall (P) Ltd."
     },
     {
       "name of Hall": "MidTown Cinemas",
