@@ -8,6 +8,13 @@
       "description": "Details of Bamel Cinemas"
     },
     {
+      "name of Hall": "Big Movies",
+      "rating": "4.0",
+      "contact": "01-4011643",
+      "address": "Kamal Pokhari, Road, Kathmandu",
+      "description": "Details of Big Movies"
+    },
+    {
       "name of Hall": "Asta Narayan Pictures Cinema Hall",
       "rating": "3.7",
       "contact": "01-4350324",
