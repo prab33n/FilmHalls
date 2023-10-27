@@ -8,11 +8,11 @@
       "description": "Details of A-MAX Cinema"
     },
     {
-      "name of Hall": "Bamel Cinemas",
+      "name of Hall": "Asta Narayan Pictures Cinema Hall",
       "rating": "3.7",
-      "contact": "011-660136",
-      "address": "Ugratara Janaga",
-      "description": "Details of Bamel Cinemas"
+      "contact": "01-4350324",
+      "address": "Bypass 16, Kathmandu",
+      "description": "Details of Asta Narayan Pictures Cinema Hall"
     },
     {
       "name of Hall": "Bajrang Cinema Hall",
@@ -22,18 +22,11 @@
       "description": "Details of Bajrang Cinema Hall"
     },
     {
-      "name of Hall": "Big Movies",
-      "rating": "4.0",
-      "contact": "01-4011643",
-      "address": "Kamal Pokhari, Road, Kathmandu",
-      "description": "Details of Big Movies"
-    },
-    {
-      "name of Hall": "Asta Narayan Pictures Cinema Hall",
+      "name of Hall": "Bamel Cinemas",
       "rating": "3.7",
-      "contact": "01-4350324",
-      "address": "Bypass 16, Kathmandu",
-      "description": "Details of Asta Narayan Pictures Cinema Hall"
+      "contact": "011-660136",
+      "address": "Ugratara Janaga",
+      "description": "Details of Bamel Cinemas"
     },
     {
       "name of Hall": "Barahai Cinema Hall",
@@ -43,18 +36,11 @@
       "description": "Details of Barahai Cinema Hall"
     },
     {
-      "name of Hall": "QFX Cinemas, Bageshwori, Nepalgunj",
-      "rating": "4.1",
-      "contact": "081-411330",
-      "address": "New Rd, Nepalgunj",
-      "description": "Detail of QFX Cinemas, Bageshwori, Nepalgunj"
-    },
-    {
-      "name of Hall": "QFX Cinemas, Bhatbhateni Biratnagar",
-      "rating": "4.3",
-      "contact": "021-522644",
-      "address": "Bhatbhateni Mall, Highway, H08, Biratnagar",
-      "description": "Detail of QFX Cinemas, Bhatbhateni Biratnagar"
+      "name of Hall": "Bindyabasini Film Hall",
+      "rating": "3.3",
+      "contact": "9823440083",
+      "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
+      "description": "Details of Bindhyabasini Film Hall"
     },
     {
       "name of Hall": "BSR Movies",
@@ -85,74 +71,18 @@
       "description": "Details of City Max cinemas"
     },
     {
-      "name of Hall": "FCube Cinemas",
-      "rating": "4.0",
-      "contact": "01-4568700",
-      "address": "KL Tower, 6th floor, Boudhanath Sadak, Kathmandu",
-      "description": "Details of FCube Cinemas"
-    },
-    {
-      "name of Hall": "Santosh Chalchitra Mandir",
-      "rating": "3.0",
-      "contact": "075-520261",
-      "address": "Tansen Palpa",
-      "description": "Details of Santosh Chalchitra Mandir"
-    },
-    {
-      "name of Hall": "Bindyabasini Film Hall",
-      "rating": "3.3",
-      "contact": "9823440083",
-      "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
-      "description": "Details of Bindhyabasini Film Hall"
-    },
-    {
-      "name of Hall": "Kalika Entertainment Pvt Ltd",
-      "rating": "4.3",
-      "contact": "068-524300",
-      "address": "Cinema Road, Baglung",
-      "description": "Details of Kalika Entertainment Pvt Ltd"
-    },
-    {
-      "name of Hall": "Kalpana Cinema Hall (P) Ltd.",
-      "rating": "3.4",
-      "contact": "061-520157",
-      "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
-      "description": "Details of Kalpana Cinema Hall (P) Ltd."
-    },
-    {
-      "name of Hall": "MidTown Cinemas",
-      "rating": "4.1",
-      "contact": "061-580781",
-      "address": "New Rd, Pokhara",
-      "description": "Details of MidTown Cinemas"
-    },
-    {
-      "name of Hall": "OMAX Cinemas",
-      "rating": "3.8",
-      "contact": "057-527227",
-      "address": " Parijat Marg, Hetauda",
-      "description": "Details of OMAX Cinemas"
-    },
-    {
-      "name of Hall": "Saugat Hall Syangja",
-      "rating": "NA",
-      "contact": "NA",
-      "address": "siddhartha Rajmarg Putalibazar Syangja",
-      "description": "Details of Saugat Hall Syangja"
-    },
-    {
-      "name of Hall": "Shree Krishna Theater",
-      "rating": "3.5",
-      "contact": "061-530798",
-      "address": "Gairapatan Tersapatti Pokhara",
-      "description": "Details of Shree Krishna Theater"
-    },
-    {
       "name of Hall": "Dwarika Udaya Cinema",
       "rating": "3.8",
       "contact": "071-540613",
       "address": "Rajmargchowk, Butwal",
       "description": "Details of Dwarika Udaya Cinema"
+    },
+    {
+      "name of Hall": "FCube Cinemas",
+      "rating": "4.0",
+      "contact": "01-4568700",
+      "address": "KL Tower, 6th floor, Boudhanath Sadak, Kathmandu",
+      "description": "Details of FCube Cinemas"
     },
     {
       "name of Hall": "Gopikrishna Movies",
@@ -176,6 +106,27 @@
       "description": "Details of Himaz Cinema"
     },
     {
+      "name of Hall": "iNi Cinemas - Lotse",
+      "rating": "4.1",
+      "contact": "980-2317400",
+      "address": "Gongabu Bus Park, Kathmandu",
+      "description": "Details of iNi Cinemas - Lotse"
+    },
+    {
+      "name of Hall": "iNi Cinemas - QBox, Butwal",
+      "rating": "4.0",
+      "contact": "980-2317400",
+      "address": "Milan Chowk - 9, Butwal",
+      "description": "Details of iNi Cinemas"
+    },
+    {
+      "name of Hall": "iNi North Cinemas",
+      "rating": "4.1",
+      "contact": "980-2317400",
+      "address": "Gongabu Chakrapath, Tokha",
+      "description": "Details of iNi North Cinemas"
+    },
+    {
       "name of Hall": "Indradev Cinema",
       "rating": "3.7",
       "contact": "982-9490700",
@@ -197,18 +148,25 @@
       "description": "Details of Jagadamba Cinema Hall"
     },
     {
-      "name of Hall": "Mandip Milan Chalchitra Mandir",
-      "rating": "3.6",
-      "contact": "NA",
-      "address": "Lekhnath",
-      "description": "Details of Mandip Milan Chalchitra Mandir"
+      "name of Hall": "Kashi Cineplex PVT.LTD",
+      "rating": "3.7",
+      "contact": "071-570927",
+      "address": "Siddhartha Hwy, Siddharthanagar",
+      "description": "Details of Kashi Cineplex PVT.LTD"
     },
     {
-      "name of Hall": "Movie Garden",
-      "rating": "4.7",
-      "contact": "980-1022929",
-      "address": "Movie Garden 1 Street, Lakeside Rd, Pokhara",
-      "description": "Details of Movie Garden"
+      "name of Hall": "Kalika Entertainment Pvt Ltd",
+      "rating": "4.3",
+      "contact": "068-524300",
+      "address": "Cinema Road, Baglung",
+      "description": "Details of Kalika Entertainment Pvt Ltd"
+    },
+    {
+      "name of Hall": "Kalpana Cinema Hall (P) Ltd.",
+      "rating": "3.4",
+      "contact": "061-520157",
+      "address": "Gairapatan - Tersapatti Rd 3, Pokhara",
+      "description": "Details of Kalpana Cinema Hall (P) Ltd."
     },
     {
       "name of Hall": "Kashi Cineplex PVT.LTD",
@@ -218,32 +176,32 @@
       "description": "Details of Kashi Cineplex PVT.LTD"
     },
     {
+      "name of Hall": "Machhapuchhre Cinema Hall",
+      "rating": "2.8",
+      "contact": "NA",
+      "address": "Rajahar",
+      "description": "Details of Machhapuchhre Cinema Hall"
+    },
+    {
+      "name of Hall": "Mandip Milan Chalchitra Mandir",
+      "rating": "3.6",
+      "contact": "NA",
+      "address": "Lekhnath",
+      "description": "Details of Mandip Milan Chalchitra Mandir"
+    },
+    {
+      "name of Hall": "MidTown Cinemas",
+      "rating": "4.1",
+      "contact": "061-580781",
+      "address": "New Rd, Pokhara",
+      "description": "Details of MidTown Cinemas"
+    },
+    {
       "name of Hall": "Milan Chalchitra Mandir",
       "rating": "3.4",
       "contact": "071-540318",
       "address": "MFQ7+775, Butwal 32907",
       "description": "Details of Milan Chalchitra Mandir"
-    },
-    {
-      "name of Hall": "iNi Cinemas - QBox, Butwal",
-      "rating": "4.0",
-      "contact": "980-2317400",
-      "address": "Milan Chowk - 9, Butwal",
-      "description": "Details of iNi Cinemas"
-    },
-    {
-      "name of Hall": "iNi Cinemas - Lotse",
-      "rating": "4.1",
-      "contact": "980-2317400",
-      "address": "Gongabu Bus Park, Kathmandu",
-      "description": "Details of iNi Cinemas - Lotse"
-    },
-    {
-      "name of Hall": "iNi North Cinemas",
-      "rating": "4.1",
-      "contact": "980-2317400",
-      "address": "Gongabu Chakrapath, Tokha",
-      "description": "Details of iNi North Cinemas"
     },
     {
       "name of Hall": "Mohini Cinema Hall",
@@ -253,25 +211,18 @@
       "description": "Details of Mohini Cinema Hall"
     },
     {
-      "name of Hall": "Machhapuchhre Cinema Hall",
-      "rating": "2.8",
-      "contact": "NA",
-      "address": "Rajahar",
-      "description": "Details of Machhapuchhre Cinema Hall"
+      "name of Hall": "Movie Garden",
+      "rating": "4.7",
+      "contact": "980-1022929",
+      "address": "Movie Garden 1 Street, Lakeside Rd, Pokhara",
+      "description": "Details of Movie Garden"
     },
     {
-      "name of Hall": "Shree Krishna Cinema Hall",
-      "rating": "2.6",
-      "contact": "NA",
-      "address": "Prithvi Hwy, Aanbu Khaireni",
-      "description": "Details of Shree Krishna Cinema Hall"
-    },
-    {
-      "name of Hall": "Oasis Cinemas",
-      "rating": "3.9",
-      "contact": "982-1091580",
-      "address": "Banaganga",
-      "description": "Details of Oasis Cinemas"
+      "name of Hall": "OMAX Cinemas",
+      "rating": "3.8",
+      "contact": "057-527227",
+      "address": " Parijat Marg, Hetauda",
+      "description": "Details of OMAX Cinemas"
     },
     {
       "name of Hall": "One Cinemas Baneshwor",
@@ -281,39 +232,11 @@
       "description": "Details of One Cinemas Baneshwor"
     },
     {
-      "name of Hall": "QFX Cinemas Jalma",
-      "rating": "4.1",
-      "contact": "056-522079",
-      "address": "Bharatpur",
-      "description": "Details of QFX Cinemas Jalma"
-    },
-    {
-      "name of Hall": "QFX Damauli",
-      "rating": "3.9",
-      "contact": "065-590788",
-      "address": "Byas",
-      "description": "Details of QFX Damauli"
-    },
-    {
-      "name of Hall": "QFX Cinemas, Labim Mall",
-      "rating": "4.2",
-      "contact": "01-5522566",
-      "address": "Lalitpur",
-      "description": "Details of QFX Cinemas, Labim Mall"
-    },
-    {
-      "name of Hall": "Pokhara Cineplex",
-      "rating": "4.1",
-      "contact": "061-572630",
-      "address": "Pokhara",
-      "description": "Details of Pokhara Cineplex"
-    },
-    {
-      "name of Hall": "Siddheshwor Chalchitra Mandir",
-      "rating": "3.5",
-      "contact": "067-420270",
-      "address": "Siddheswor Lane, Kushma",
-      "description": "Details of Siddheshwor Chalchitra Mandir"
+      "name of Hall": "Q'S Cinemas",
+      "rating": "3.8",
+      "contact": "01-4169201",
+      "address": "Teendhara Marg, Kathmandu",
+      "description": "Details of Q'S Cinemas Kathmandu"
     },
     {
       "name of Hall": "QFX Cinemas Butwal",
@@ -330,39 +253,96 @@
       "description": "Details of QFX Cinemas Chhaya Center"
     },
     {
-      "name of Hall": "Q'S Cinemas",
-      "rating": "3.8",
-      "contact": "01-4169201",
-      "address": "Teendhara Marg, Kathmandu",
-      "description": "Details of Q'S Cinemas Kathmandu"
+      "name of Hall": "QFX Cinemas Jalma",
+      "rating": "4.1",
+      "contact": "056-522079",
+      "address": "Bharatpur",
+      "description": "Details of QFX Cinemas Jalma"
     },
     {
-      "name of Hall": "Trimurti Cinema Hall, Birgunj",
-      "rating": "3.7",
-      "contact": "051-521151",
-      "address": "Burgunj",
-      "description": "Details of Trimurti Cinema Hall, Birgunj"
-    },
-    {
-      "name of Hall": "Uttarshila Cinema",
-      "rating": "5.0",
-      "contact": "065-560093",
+      "name of Hall": "QFX Damauli",
+      "rating": "3.9",
+      "contact": "065-590788",
       "address": "Byas",
-      "description": "Details of Uttarshila Cinema"
+      "description": "Details of QFX Damauli"
     },
     {
-      "name of Hall": "View Cinemas",
-      "rating": "3.8",
-      "contact": "071-544015",
-      "address": "Singh Complex, Amarpath 6, Butwal",
-      "description": "Details of View Cinemas"
+      "name of Hall": "QFX Cinemas, Bageshwori, Nepalgunj",
+      "rating": "4.1",
+      "contact": "081-411330",
+      "address": "New Rd, Nepalgunj",
+      "description": "Detail of QFX Cinemas, Bageshwori, Nepalgunj"
     },
     {
-      "name of Hall": "Padmashree Theatre",
+      "name of Hall": "QFX Cinemas, Bhatbhateni Biratnagar",
       "rating": "4.3",
-      "contact": "N/A",
-      "address": " Siddhartha Hwy, Siddharthanagar,Nepal",
-      "description": "Details of Padmashree Theatre"
-    }
-  ]
-}
+      "contact": "021-522644",
+      "address": "Bhatbhateni Mall, Highway, H08, Biratnagar",
+      "description": "Detail of QFX Cinemas, Bhatbhateni Biratnagar"
+    },
+    {
+      "name of Hall": "QFX Cinemas, Labim Mall",
+      "rating": "4.2",
+      "contact": "01-5522566",
+      "address": "Lalitpur",
+      "description": "Details of QFX Cinemas, Labim Mall"
+    },
+    {
+      "name of Hall": "QFX Cinemas, Bhatbhateni Kathmandu",
+      "rating": "3.9",
+      "contact": "01-5566777",
+      "address": "Bhatbhateni Super Market, Kathmandu",
+      "description": "Details of QFX Cinemas, Bhatbhateni Kathmandu"
+    },
+    {
+      "name of Hall": "Santosh Chalchitra Mandir",
+      "rating": "3.0",
+      "contact": "075-520261",
+      "address": "Tansen Palpa",
+      "description": "Details of Santosh Chalchitra Mandir"
+    },
+    {
+      "name of Hall": "Shree Krishna Cinema Hall",
+      "rating": "2.6",
+      "contact": "NA",
+      "address": "Prithvi Hwy, Aanbu Khaireni",
+      "description": "Details of Shree Krishna Cinema Hall"
+    },
+    {
+      "name of Hall": "Shree Krishna Theater",
+      "rating": "3.5",
+      "contact": "061-530798",
+      "address": "Gairapatan Tersapatti Pokhara",
+      "description": "Details of Shree Krishna Theater"
+    },
+    {
+        "name of Hall": "Siddheshwor Chalchitra Mandir",
+        "rating": "3.5",
+        "contact": "067-420270",
+        "address": "Siddheswor Lane, Kushma",
+        "description": "Details of Siddheshwor Chalchitra Mandir"
+      },
+      {
+        "name of Hall": "Trimurti Cinema Hall, Birgunj",
+        "rating": "3.7",
+        "contact": "051-521151",
+        "address": "Burgunj",
+        "description": "Details of Trimurti Cinema Hall, Birgunj"
+      },
+      {
+        "name of Hall": "Uttarshila Cinema",
+        "rating": "5.0",
+        "contact": "065-560093",
+        "address": "Byas",
+        "description": "Details of Uttarshila Cinema"
+      },
+      {
+        "name of Hall": "View Cinemas",
+        "rating": "3.8",
+        "contact": "071-544015",
+        "address": "Singh Complex, Amarpath 6, Butwal",
+        "description": "Details of View Cinemas"
+      }
+    ]
+  }
+  
