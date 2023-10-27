@@ -242,7 +242,7 @@
       "name of Hall": "iNi North Cinemas",
       "rating": "4.1",
       "contact": "980-2317400",
-      "address": "गोंगबुँ चक्रपथ ट्राक उत्तर, Tokha",
+      "address": "Gongabu Chakrapath, Tokha",
       "description": "Details of iNi North Cinemas"
     },
     {
@@ -286,6 +286,13 @@
       "contact": "056-522079",
       "address": "Bharatpur",
       "description": "Details of QFX Cinemas Jalma"
+    },
+    {
+      "name of Hall": "QFX Damauli",
+      "rating": "3.9",
+      "contact": "065-590788",
+      "address": "Byas",
+      "description": "Details of QFX Damauli"
     },
     {
       "name of Hall": "QFX Cinemas, Labim Mall",
