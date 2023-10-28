@@ -64,6 +64,13 @@
       "description": "Details of Cine Plaza Entertainment"
     },
     {
+      "name of Hall": "Cine Cinema",
+      "rating": "4.2",
+      "contact": "021-512200",
+      "address": "Sahid Marg, Biratnagar",
+      "description": "Details of City Cinema"
+    },
+    {
       "name of Hall": "City Max Cinemas",
       "rating": "3.8",
       "contact": "01-4239085",
