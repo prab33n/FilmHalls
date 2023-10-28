@@ -148,6 +148,13 @@
       "description": "Details of Jagadamba Cinema Hall"
     },
     {
+      "name of Hall": "Kamal Binayak Cinema Hall",
+      "rating": "3.3",
+      "contact": "N/A",
+      "address": "Jagati-KamalBinayak Rd, Bhaktapur",
+      "description": "Details of Kamal Binayak Cinema Hall"
+    },
+    {
       "name of Hall": "Kashi Cineplex PVT.LTD",
       "rating": "3.7",
       "contact": "071-570927",
@@ -316,33 +323,32 @@
       "description": "Details of Shree Krishna Theater"
     },
     {
-        "name of Hall": "Siddheshwor Chalchitra Mandir",
-        "rating": "3.5",
-        "contact": "067-420270",
-        "address": "Siddheswor Lane, Kushma",
-        "description": "Details of Siddheshwor Chalchitra Mandir"
-      },
-      {
-        "name of Hall": "Trimurti Cinema Hall, Birgunj",
-        "rating": "3.7",
-        "contact": "051-521151",
-        "address": "Burgunj",
-        "description": "Details of Trimurti Cinema Hall, Birgunj"
-      },
-      {
-        "name of Hall": "Uttarshila Cinema",
-        "rating": "5.0",
-        "contact": "065-560093",
-        "address": "Byas",
-        "description": "Details of Uttarshila Cinema"
-      },
-      {
-        "name of Hall": "View Cinemas",
-        "rating": "3.8",
-        "contact": "071-544015",
-        "address": "Singh Complex, Amarpath 6, Butwal",
-        "description": "Details of View Cinemas"
-      }
-    ]
-  }
-  
+      "name of Hall": "Siddheshwor Chalchitra Mandir",
+      "rating": "3.5",
+      "contact": "067-420270",
+      "address": "Siddheswor Lane, Kushma",
+      "description": "Details of Siddheshwor Chalchitra Mandir"
+    },
+    {
+      "name of Hall": "Trimurti Cinema Hall, Birgunj",
+      "rating": "3.7",
+      "contact": "051-521151",
+      "address": "Burgunj",
+      "description": "Details of Trimurti Cinema Hall, Birgunj"
+    },
+    {
+      "name of Hall": "Uttarshila Cinema",
+      "rating": "5.0",
+      "contact": "065-560093",
+      "address": "Byas",
+      "description": "Details of Uttarshila Cinema"
+    },
+    {
+      "name of Hall": "View Cinemas",
+      "rating": "3.8",
+      "contact": "071-544015",
+      "address": "Singh Complex, Amarpath 6, Butwal",
+      "description": "Details of View Cinemas"
+    }
+  ]
+}
