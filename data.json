@@ -8,6 +8,13 @@
       "description": "Details of A-MAX Cinema"
     },
     {
+      "name of Hall": "Annapurna Chalchita Mandir",
+      "rating": "3.5",
+      "contact": "986-2900388",
+      "address": "Lamjung",
+      "description": "Details of Annapurna Chalchita Mandir"
+    },
+    {
       "name of Hall": "Asta Narayan Pictures Cinema Hall",
       "rating": "3.7",
       "contact": "01-4350324",
@@ -62,6 +69,13 @@
       "contact": "061-520656",
       "address": "Tersapati Pokhara",
       "description": "Details of Cine Plaza Entertainment"
+    },
+    {
+      "name of Hall": "City Cinema",
+      "rating": "4.2",
+      "contact": "021-512200",
+      "address": "Sahid Marg, Biratnagar",
+      "description": "Details of City Cinema"
     },
     {
       "name of Hall": "City Max Cinemas",
@@ -274,6 +288,13 @@
       "description": "Details of QFX Damauli"
     },
     {
+      "name of Hall": "QFX Itahari",
+      "rating": "3.1",
+      "contact": "025-589101",
+      "address": "Central Plaza, Itahari",
+      "description": "Details of QFX Itahari"
+    },
+    {
       "name of Hall": "QFX Cinemas, Bageshwori, Nepalgunj",
       "rating": "4.1",
       "contact": "081-411330",
@@ -309,6 +330,13 @@
       "description": "Details of Santosh Chalchitra Mandir"
     },
     {
+      "name of Hall": "Shree Bajrang Picture Palace ",
+      "rating": "4.1",
+      "contact": "980-2934725",
+      "address": "Ramgadwa, Birgunj, Nepal",
+      "description": "Details of Shree Bajrang Picture Palace "
+    },
+    {
       "name of Hall": "Shree Krishna Cinema Hall",
       "rating": "2.6",
       "contact": "NA",
@@ -321,6 +349,13 @@
       "contact": "061-530798",
       "address": "Gairapatan Tersapatti Pokhara",
       "description": "Details of Shree Krishna Theater"
+    },
+    {
+      "name of Hall": "Shreeram Picture Palace Pvt. Ltd.",
+      "rating": "3.7",
+      "contact": "980-2934710",
+      "address": "Chappkaiya, ward, Street Number 2, Birgunj ",
+      "description": "Details of Shreeram Picture Palace Pvt. Ltd."
     },
     {
       "name of Hall": "Siddheshwor Chalchitra Mandir",
