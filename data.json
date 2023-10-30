@@ -323,6 +323,13 @@
       "description": "Details of QFX Cinemas, Bhatbhateni Kathmandu"
     },
     {
+      "name of Hall": "QFX Cinemas, Skyline Mall",
+      "rating": "4.3",
+      "contact": "N/A",
+      "address": "Birgunj",
+      "description": "Details of QFX Birgunj"
+    },
+    {
       "name of Hall": "Santosh Chalchitra Mandir",
       "rating": "3.0",
       "contact": "075-520261",
@@ -330,7 +337,14 @@
       "description": "Details of Santosh Chalchitra Mandir"
     },
     {
-      "name of Hall": "Shree Bajrang Picture Palace ",
+      "name of Hall": "Satya cinema hall",
+      "rating": "N/A",
+      "contact": "984-5479881",
+      "address": "Ghadiarwa pokhari , Birgunj, Nepal",
+      "description": "Details of Satya cinema hall"
+    },
+    {
+      "name of Hall": "Shree Bajrang Picture Palace Birjung ",
       "rating": "4.1",
       "contact": "980-2934725",
       "address": "Ramgadwa, Birgunj, Nepal",
