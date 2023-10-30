@@ -71,6 +71,13 @@
       "description": "Details of Cine Plaza Entertainment"
     },
     {
+      "name of Hall": "Cine Royale",
+      "rating": "4.4",
+      "contact": "081-535035",
+      "address": "Ratna Rajmarg, H12, Nepalgunj",
+      "description": "Details of Cine Royale"
+    },
+    {
       "name of Hall": "City Cinema",
       "rating": "4.2",
       "contact": "021-512200",
@@ -90,6 +97,13 @@
       "contact": "071-540613",
       "address": "Rajmargchowk, Butwal",
       "description": "Details of Dwarika Udaya Cinema"
+    },
+    {
+      "name of Hall": "Elite Cinema Hall",
+      "rating": "4.0",
+      "contact": " 025-589111",
+      "address": "Itahari",
+      "description": "Details of Elite Cinema Hall"
     },
     {
       "name of Hall": "FCube Cinemas",
