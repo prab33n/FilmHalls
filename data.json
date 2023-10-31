@@ -64,6 +64,13 @@
       "description": "Details of CDC Cinemas"
     },
     {
+      "name of Hall": "Central Multiplex",
+      "rating": "4.2",
+      "contact": "021-534009",
+      "address": "Satya Narayan Marg, Biratnagar ",
+      "description": "Details of Central Multiplex"
+    },
+    {
       "name of Hall": "Cine Plaza Entertainment",
       "rating": "3.7",
       "contact": "061-520656",
