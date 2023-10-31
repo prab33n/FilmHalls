@@ -71,6 +71,13 @@
       "description": "Details of CDC Cinemas"
     },
     {
+      "name of Hall": "Central Multiplex",
+      "rating": "4.2",
+      "contact": "021-534009",
+      "address": "Satya Narayan Marg, Biratnagar ",
+      "description": "Details of Central Multiplex"
+    },
+    {
       "name of Hall": "Cine Plaza Entertainment",
       "rating": "3.7",
       "contact": "061-520656",
@@ -132,6 +139,13 @@
       "contact": "N/A",
       "address": "Ring Rd, Lalitpur",
       "description": "Details of Guna Cinema Halls"
+    },
+    {
+      "name of Hall": "Himalaya Cinema Threatre",
+      "rating": "3.4",
+      "contact": "021-522596",
+      "address": "Himalaya Rd, Biratnagar",
+      "description": "Details of Himalaya Cinema Threatre"
     },
     {
       "name of Hall": "Himaz Cinema",
